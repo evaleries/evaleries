@@ -4,4 +4,4 @@
 ![evaleries' github stats](https://github-readme-stats-one-nu.vercel.app/api?username=evaleries&show_icons=true&theme=radical)
 
 ### Check this out
-- [evaleries/gameoverflow](https://github.com/evaleries/gameoverflow)
+- [Pemrograman-Fasilkom-Unej/Assistant-Manager](https://github.com/Pemrograman-Fasilkom-Unej/Assistant-Manager)
