@@ -1,5 +1,7 @@
-### Hi there 👋, welcome to my profile 🦄
-![Fav quotes](https://i.imgur.com/nnWSqz9.png)
+### Hi there 👋, Welcome to My Profile 🦄
+<p align="center">
+<img src='https://i.imgur.com/Qq6u3pX.jpg' height='300' alt="evaleries' banner">
+</p>
 
 I'm a student at the University of Jember. Backend. Sleep Enthusiast
 
