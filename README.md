@@ -14,7 +14,7 @@ Skills: PHP, JavaScript, Python, Java, Open Source.
 ![evaleries' github stats](https://github-readme-stats-one-nu.vercel.app/api?username=evaleries&show_icons=true&theme=synthwave)
 <img src='https://thumbs.gfycat.com/MajesticScentedDeinonychus-small.gif' alt='daily routines' height='195px'>
 
-[<img src='https://avatars0.githubusercontent.com/u/55680825?s=40&v=4' alt='forum pemro'>](https://forum.pemro.me/u/evaleries) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/evaleries) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/vereloquent) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/evaleries)
+[<img src='https://avatars0.githubusercontent.com/u/55680825?s=40&v=4' alt='forum pemro'>](https://forum.pemro.me/u/evaleries) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/evaleries) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/evaleries)
 
 ### Check this out
 [![Assistant Manager](https://github-readme-stats-one-nu.vercel.app/api/pin/?username=Pemrograman-Fasilkom-Unej&repo=Assistant-Manager)](https://github.com/Pemrograman-Fasilkom-Unej/Assistant-Manager)
