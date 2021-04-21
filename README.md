@@ -6,7 +6,7 @@ I'm a student at the University of Jember. Backend. Sleep Enthusiast
 
 Skills: PHP, JavaScript, Python, Java, Open Source.
 
-- 🌱 I’m currently learning Flutter, Data Mining, Laravel 8, and TDD. 
+- 🌱 I’m currently learning Laravel 8, Vue.js, Electron.js
 - 👯 I’m looking to collaborate on PHP 
 - 📫 How to reach me: contact me on twitter. 
 - ⚡ Fun fact: [1 + 1 = 3](https://www.youtube.com/watch?v=MGGKW0HCb5U)
