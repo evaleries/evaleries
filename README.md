@@ -8,7 +8,7 @@ Skills: PHP, JavaScript, Python, Java, Open Source.
 
 - 🌱 I’m currently learning Laravel 8, Vue.js, Electron.js
 - 👯 I’m looking to collaborate on PHP 
-- 📫 How to reach me: contact me on twitter. 
+- 📫 How to reach me: contact me at evaleries[at]pm.me. 
 - ⚡ Fun fact: [1 + 1 = 3](https://www.youtube.com/watch?v=MGGKW0HCb5U)
 
 ![evaleries' github stats](https://github-readme-stats-one-nu.vercel.app/api?username=evaleries&show_icons=true&theme=synthwave)
