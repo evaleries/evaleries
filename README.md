@@ -24,7 +24,7 @@ Skills: PHP, JavaScript, Python, Open Source.
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vue-dot-js)
 
 ![AWS](https://img.shields.io/badge/-AWS-%232C3A42?style=flat-square&logo=amazon-aws)
-![Azure](https://img.shields.io/badge/-Azure-%230078D4?style=flat-square&logo=microsoft-azure)
+![Azure](https://img.shields.io/badge/-Azure-%230078D4?style=flat-square&logo=microsoft-azure&logoColor=ffffff)
 
 
 ## Find me on
