@@ -29,5 +29,5 @@ Skills: PHP, JavaScript, Python, Open Source.
 
 ## Find me on
 
-[<img src='https://avatars0.githubusercontent.com/u/55680825?s=40&v=4' alt='forum pemro'>](https://forum.pemro.me/u/evaleries) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/evaleries) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/evaleries) [<img src='https://protonmail.com/images/media/logos/protonmail-sign-dark.png' height='40'>](mailto:evaleries@pm.me)
+[<img src='https://avatars0.githubusercontent.com/u/55680825?s=40&v=4' alt='forum pemro'>](https://forum.pemro.me/u/evaleries) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/evaleries) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/evaleries) [<img src='https://protonmail.com/images/media/logos/protonmail-sign-dark.png' height='40'>](mailto:evaleries@pm.me) [<img src='https://evaleries.vercel.app/static/f807d15e28fb6872efbef1dc72af538e/82cac/logo.png' height='40' alt='Personal website'>](https://evaleries.vercel.app)
 
