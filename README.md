@@ -10,8 +10,6 @@
 
 I'm a CS student at the University of Jember.
 
-Skills: PHP, JavaScript, Python, Open Source.
-
 - 🌱 I’m currently learning Vue.js, Nuxt.js, Next.js, Electron.js, Flutter.
 - 👯 I’m looking to collaborate on PHP/Open source projects.
 - 📫 How to reach me: contact me at evaleries[at]pm.me. 
@@ -21,11 +19,19 @@ Skills: PHP, JavaScript, Python, Open Source.
 ![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=flat-square&logo=php&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vue-dot-js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vue.js)
+![Electron.js](https://img.shields.io/badge/-Electron.js-47848F?style=flat-square&logoColor=ffffff&logo=electron)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logoColor=ffffff&logo=next.js)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logoColor=ffffff&logo=nuxt.js)
+![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logoColor=ffffff&logo=gatsby)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logoColor=ffffff&logo=python)
 
 ![AWS](https://img.shields.io/badge/-AWS-%232C3A42?style=flat-square&logo=amazon-aws)
 ![Azure](https://img.shields.io/badge/-Azure-%230078D4?style=flat-square&logo=microsoft-azure&logoColor=ffffff)
 
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logoColor=ffffff&logo=windows)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logoColor=ffffff&logo=ubuntu)
 
 ## Find me on
 
